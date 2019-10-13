@@ -1,3 +1,5 @@
 <!--pages/about/about.wxml-->
 <text>hello world</text>
 <button>按钮</button>
+
+<view>22222</view>
